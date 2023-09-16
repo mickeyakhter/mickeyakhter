@@ -1,6 +1,6 @@
 ### Welcome to Mickey Akhter's GitHub Profile! 👋
 
-🛠 **Jack of all trades** in IT integration. Whether you're looking to integrate new systems into your existing infrastructure, modernize your old codebase, or migrate services to the cloud while dismantling monolithic architectures, I'm your person.
+🛠 **Jack of all trades** in IT integration. Whether you're looking to integrate new systems into your existing infrastructure, modernize your old codebase, or migrate services to the cloud while dismantling monolithic architectures, I'm your guy.
 
 ---
 
