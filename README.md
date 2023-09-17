@@ -20,8 +20,7 @@
   - Built C# batch jobs, set up Azure DevOps pipelines, implemented security controls, and more.
 - **Iron Mountain** - Software Development Lead (2020-2022)
   - Developed an AWS solution using Docker and Machine Learning, managed a development team, implemented CI/CD pipelines.
-- [See Full Resume](#) *(Link to your detailed resume)*
-
+- [See Full Resume](https://github.com/mickeyakhter/mickeyakhter/blob/main/MickeyAkhterResume.docx)
 ---
 
 #### 📚 **Education:**
